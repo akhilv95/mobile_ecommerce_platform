@@ -1,0 +1,15 @@
+
+.title{
+  color: rgb(15, 15, 245);
+  height: 20;
+}
+head{
+  color: blanchedalmond;
+}
+body {
+  background-image: url('https://image-processor-storage.s3.us-west-2.amazonaws.com/images/a3627d6c1e59636360b65d5707db2e61/abstract-rose-quarz-pink-fusia-background.jpg');
+  background-size: cover;          /* Ensures the image covers the entire page */
+  background-repeat: no-repeat;     /* Prevents the image from repeating */
+  background-attachment: fixed;     /* Keeps the image fixed when scrolling */
+  background-position: center;      /* Centers the image */
+}
