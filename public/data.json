@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Google Pixel - Black",
+      "price": 500,
+      "company": "Google",
+      "info": "This is a Google Pixel phone.",
+      "inCart": false
+    },
+    {
+      "id": 2,
+      "title": "iPhone 12",
+      "price": 1000,
+      "company": "Apple",
+      "info": "This is an Apple iPhone.",
+      "inCart": false
+    }
+  ]
+  

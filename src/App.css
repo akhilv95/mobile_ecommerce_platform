@@ -1,0 +1,31 @@
+
+.navbar {
+  background: #333;
+  color: white;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar ul li {
+  margin-right: 20px;
+}
+
+.product-list {
+  padding: 20px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  width: 200px;
+}
+
+.cart {
+  padding: 20px;
+}

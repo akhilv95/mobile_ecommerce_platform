@@ -1,0 +1,47 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background: white;
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .modal-content img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .modal-buttons {
+    margin-top: 20px;
+  }
+  
+  .add-to-cart-btn, .back-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+  }
+  
+  .back-btn {
+    background-color: #6c757d;
+    color: white;
+    border: none;
+  }
+  
